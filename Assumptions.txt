@@ -1,0 +1,12 @@
+
+
+Some Assumptions :
+
+We don't need any info on who is leading the book.
+The user will only return the same book that he had borrowed.
+We will return only the book which is with the library collection and was in the list of books before leading.
+The list of books will contain only those books which are with the library collection's book.
+If we add any book, then that book should not be included in our direct list of books | Add to library collection only.
+
+... In the future, I will try to handle all these Assumptions.
+
